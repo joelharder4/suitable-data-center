@@ -18,7 +18,7 @@ Key physical and infrastructure variables are standardized to a 0.0 to 1.0 suita
 
 All spatial datasets are projected into EPSG:5070 (NAD83 / Conus Albers). They are then standardized and summarized to a single county boundary layer to ensure fair and consistent ranking across the contiguous United States.
 
-[Thing](./methods_flowchart.drawio.svg)
+![Methods Flowchart](./methods_flowchart.drawio.svg)
 
 ## Tech Stack
 * **Language:** Python
