@@ -13,12 +13,9 @@ __pycache__/
 *.sbx
 *.cpg
 *.xml
-*.pdf
 
 *.tif
 *.tfw
-*.png
-*.jpg
 
 data/
 ignore/
